@@ -1,0 +1,6 @@
+Run this:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - AI PDF RAG Agent"
