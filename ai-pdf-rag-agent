@@ -1,0 +1,7 @@
+ai-pdf-rag-agent
+│
+├── rag_pdf_agent.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── sample_document.pdf
